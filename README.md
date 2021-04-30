@@ -1,8 +1,7 @@
 ### <h1 align="center">Hi 👋, I'm Carlangas Salazar</h1>
 
-<!--
-**Carlangas11/Carlangas11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ```js
+
 var personalInfo = { name: `Ignacio Boudou`, role: `full-stack engineer`, motivation: `learning`, objective: `challenge`, newTech: `kotlin`};
 
 let myData = `I'm a curios person looking for ${personaInfo.objective} right now and I want to work in an enviorment full of ${personaInfo.motivation} as
