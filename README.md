@@ -2,16 +2,15 @@
 
 ```js
 
-var personalInfo = { name: `Ignacio Boudou`, role: `full-stack engineer`, motivation: `learning`, objective: `challenge`, newTech: `kotlin`};
+var personalInfo = { name: `Carlos Salazar`, role: `Full-Stack developer`, motivation: `Learning`, objective: `Challenge`};
 
-let myData = `I'm a curios person looking for ${personaInfo.objective} right now and I want to work in an enviorment full of ${personaInfo.motivation} as
-                a ${personaInfo.role} to expand my horizon in software engineering and learning new technologies.
-                Ive recently picked my interest with ${personaInfo.newTech} so i might learn it once i start working as a developer.`;
+let myData = `I am a developer, orderly and passionate, in search of ${personaInfo.objective}, who seeks new ${personaInfo.objective} that allow him to deliver efficient 
+              solutions in different markets.
 
-const desire = `I'd like to participate in projects that have an impact on the world, to
-                 change things for good through utilizing software advantages.`;
+const desire = `I want projects that challenge me and that allow me to deliver new solutions to problems. I like to learn new technologies that complement and increase my 
+                knowledge`;
 
-console.log( `Start engines, energy is powered by: `personalInfo.objective);
+
 ```
 
 ## ✉️ Find me on:
